@@ -1,0 +1,17 @@
+#h11	{color:red}
+#h12	{color:Green}
+.h13	{color:blue}
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  background-image: url("C:\Users\user\Desktop\pink-bright-texture-designer-background-260nw-1040229760.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ 
